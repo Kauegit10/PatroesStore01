@@ -1,0 +1,7 @@
+{
+  "name": "PATRÕES STORE",
+  "description": "Loja oficial PATRÕES STORE. Gestão de produtos e serviços com a melhor experiência para os clientes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
